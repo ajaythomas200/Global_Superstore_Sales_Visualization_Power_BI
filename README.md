@@ -19,3 +19,5 @@ This project presents a comprehensive Sales Analysis Visualization Dashboard bui
 * **Sales by State:** The map visualizes sales distribution across different states, while the table shows state-wise sales totals along with the total sales by all states.
 
 * **Sales by Market:** Analyze sales performance by market using a stacked bar chart, while the table displays the market-wise sales total along with the total sales by market.
+
+  ![DASHBOARD SCREENSHOT](https://github.com/user-attachments/assets/a3b3e20b-290c-4b6b-bfa0-64db1276b661)
